@@ -1,0 +1,9 @@
+**Log on to codeastro.com for more projects!**
+
+
+**Installation**
+
+- npm install
+- npm start
+GIVE npm start then link click
+http://127.0.0.1:3000/
