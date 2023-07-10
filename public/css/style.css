@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
 
 :root {
-  --light-color: #f9f9f9;
+  --light-color: #ce4e4e;
 }
 
 * {
@@ -29,7 +29,7 @@ a {
   cursor: pointer;
   padding: 5px 21px;
   background: #ef483c;
-  color: #ffffff;
+  color: #694141;
   border: 0;
   font-size: 17px;
 }
@@ -39,7 +39,7 @@ a {
   border-radius: 15px;
   padding: 5px 21px;
   background: #ef483c;
-  color: #ffffff;
+  color: #6b4f4f;
   border: 0;
   font-size: 17px;
 }
